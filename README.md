@@ -32,8 +32,8 @@
 
 Ниже представлены работы, запущенные на **GitHub Pages**:
 
-*   **[Металл-престиж]([https://github.com](https://github.com/ksnowikwork/metall-prestig))** — полноценная верстка с нуля сайта-каталога для дальнейшего внедрения в 1C-Битрикс
-    *   👉 **[Смотреть живой сайт (Live Demo)]([https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ_1/](https://ksnowikwork.github.io/metall-prestig/))**
+*   **[Металл-престиж](https://github.com/ksnowikwork/metall-prestig)** — полноценная верстка с нуля сайта-каталога для дальнейшего внедрения в 1C-Битрикс
+    *   👉 **[Смотреть живой сайт (Live Demo)](https://ksnowikwork.github.io/metall-prestig/)**
 
 ---
 
