@@ -40,8 +40,8 @@
 ## 📬 Связаться со мной
 
 <p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://t.me/tbxenia" alt="Telegram" />
+  <a href="https://t.me/tbxenia" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
   </a>
   <a href="mailto:ks.nowik.work@yandex.ru" target="_blank">
     <img src="https://shields.io" alt="Email" />
