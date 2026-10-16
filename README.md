@@ -37,9 +37,13 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📬 Связаться со мной
 
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
+  <a href="https://t.me" target="_blank">
+    <img src="https://t.me/tbxenia" alt="Telegram" />
+  </a>
+  <a href="mailto:ks.nowik.work@yandex.ru" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
 </p>
